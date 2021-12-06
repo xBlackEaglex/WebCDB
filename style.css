@@ -110,7 +110,7 @@ main {
 
 .main-article h1 {
     font-size: 4rem;
-    background-color: rgba(144, 164, 184, 0.103);
+    background-color: rgba(112, 147, 182, 0.507);
     border-radius: 0.3em;
 }
 
@@ -121,6 +121,11 @@ main {
     width: auto;
 }
 
+.main-article p {
+    background-color: rgba(112, 147, 182, 0.507);
+    font-size: 3rem;
+    max-width: 30%;
+}
 
 /*comenzamos a dar stilo al footer*/
 
